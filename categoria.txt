@@ -1,0 +1,4 @@
+- Categoria: Doces
+- Categoria: Salgados
+- Categoria: Bebidas
+- Categoria: Aperitivos
